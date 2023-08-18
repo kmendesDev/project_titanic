@@ -26,5 +26,5 @@ O train.csv contém os detalhes de um subconjunto dos passageiros a bordo (exata
 
 Usando os padrões encontrados nos dados do train.csv, prevemos se os 418 passageiros a bordo (encontrados no test.csv) sobreviveram.
 
-Confira a pasta "Dados" para explorar ainda mais os conjuntos de dados.
+Confira a pasta "data" para explorar ainda mais os conjuntos de dados.
 https://www.kaggle.com/competitions/titanic/overview/description
