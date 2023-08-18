@@ -1,7 +1,11 @@
 # Project TITANIC
 
 👋🛳️ Olá, seja bem-vindo ao Desafio Titanic Kaggle! Esta é a lendária competição de Machine Learning do Titanic - o melhor e primeiro desafio de ML no Kaggle.
-Esse projeto foi desenvolvido em colaboração com os Cientistas de Dados: Kaio Mendes: [https://github.com/yourusername/yourrepository](https://github.com/kmendesDev) e Cassio Viana [https://github.com/cvs2010](https://github.com/cvs2010)
+
+Esse projeto foi desenvolvido em colaboração com os Cientistas de Dados: :iphone: Developer contacts
+
+Cassio Viana
+[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white<SUBJECT>-<STATUS>-<COLOR>.svg)](https://www.linkedin.com/in/cvs1987)   [![General badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white<SUBJECT>-<STATUS>-<COLOR>.svg)](https://github.com/cvs2010)
 
 
 A competição é simples: use aprendizado de máquina para criar um modelo que preveja quais passageiros sobreviveram ao naufrágio do Titanic.
