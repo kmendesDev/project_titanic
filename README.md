@@ -28,3 +28,5 @@ Usando os padrões encontrados nos dados do train.csv, prevemos se os 418 passag
 
 Confira a pasta "data" para explorar ainda mais os conjuntos de dados.
 https://www.kaggle.com/competitions/titanic/overview/description
+
+Nosso maior Score alcançado foi de 0.79665 (79.665%) de acertos.
